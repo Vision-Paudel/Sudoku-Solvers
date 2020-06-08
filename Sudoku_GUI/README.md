@@ -1,7 +1,7 @@
 # Sudoku_GUI 1.2
 Solves Standard Sudoku Puzzles! 
 
-https://github.com/Vision-Paudel/Sudoku - Now Upgraded with GUI!
+https://github.com/Vision-Paudel/Sudoku-Solvers/tree/master/Sudoku - Now Upgraded with GUI!
 
 Command Line Argument: ``Java -jar Sudoku_GUI.jar``
 
