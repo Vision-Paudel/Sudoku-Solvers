@@ -21,4 +21,4 @@ Console is used to display additional information while running program.
 
 Sample files are included in the repository for reference.
 
-<img src"https://github.com/Vision-Paudel/Sudoku-Solvers/blob/master/Sudoku_GUI/GUI.png"/>
+<img src="https://github.com/Vision-Paudel/Sudoku-Solvers/blob/master/Sudoku_GUI/GUI.png" alt="Image could not be displayed" />
