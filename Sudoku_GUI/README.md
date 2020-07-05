@@ -20,3 +20,5 @@ Solve and save solves the puzzle, displays it and saves the solved puzzle in 2 f
 Console is used to display additional information while running program. 
 
 Sample files are included in the repository for reference.
+
+<img src"https://github.com/Vision-Paudel/Sudoku-Solvers/blob/master/Sudoku_GUI/GUI.png" /img>
